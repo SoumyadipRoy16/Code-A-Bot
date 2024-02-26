@@ -10,7 +10,7 @@ The purpose of this project is to create a smart security system that enhances t
 1. **Installation:**
    - Clone the repository to your local machine:
      ```
-     git clone https://github.com/your_username/smart-security-system.git
+     git clone https://github.com/SoumyadipRoy16/Code-A-Bot.git
      ```
 
 2. **Dependencies:**
