@@ -6,6 +6,26 @@ The Smart Security System is an Android application designed to detect motion in
 ## Purpose
 The purpose of this project is to create a smart security system that enhances the security of homes, offices, vacation homes, and other spaces by detecting motion and sending alerts to the user's phone in real-time.
 
+## How to Use
+1. **Installation:**
+   - Clone the repository to your local machine:
+     ```
+     git clone https://github.com/your_username/smart-security-system.git
+     ```
+
+2. **Dependencies:**
+   - Android Studio for development.
+   - Retrofit library for making HTTP requests.
+   - Android Sensor API for accelerometer sensor functionality.
+   - Kotlin Coroutines: Used for asynchronous programming.
+   - Simulation Platform: Integrated with a simulation platform for testing the system's functionality.
+
+3. **Usage:**
+   - Open the project in Android Studio.
+   - Build and run the application on an Android device with an accelerometer sensor.
+   - Click on the "Start Monitoring" button to initiate motion monitoring.
+   - Receive alerts on the device when significant motion is detected.
+
 ## Features
 - Motion detection using the accelerometer sensor
 - Real-time alerts sent to the user's phone
@@ -19,15 +39,16 @@ The purpose of this project is to create a smart security system that enhances t
 4. Press the "Start Monitoring" button to begin monitoring motion.
 5. Receive alerts on your phone when motion is detected.
 
-## Dependencies
-- Android Studio: The project is developed using Android Studio IDE.
-- Android Sensor API: Utilized for accessing the accelerometer sensor for motion detection.
-- Retrofit: Used for making HTTP requests to send alerts to the server.
-- Kotlin Coroutines: Used for asynchronous programming.
-- Simulation Platform: Integrated with a simulation platform for testing the system's functionality.
+## Additional Documentation
+- **LICENSE:**
+  - This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
 
-## Contributing
-Contributions to the project are welcome! If you would like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
+- **CONTRIBUTING.md:**
+  - If you'd like to contribute to the project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## Author
+- [Soumyadip Roy](https://github.com/SoumyadipRoy16)
+
+## Acknowledgments
+- This project was inspired by the need for improved security measures in homes and businesses.
+- Special thanks to [Kaggle] for their contributions and insights.
