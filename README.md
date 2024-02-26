@@ -51,4 +51,3 @@ The purpose of this project is to create a smart security system that enhances t
 
 ## Acknowledgments
 - This project was inspired by the need for improved security measures in homes and businesses.
-- Special thanks to [Kaggle] for their contributions and insights.
